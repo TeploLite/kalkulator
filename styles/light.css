@@ -14,7 +14,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(1, 153, 255);
+  background: linear-gradient(130deg, #028dff, #02ff0f);
   transition: 0.8s all;
 }
 
